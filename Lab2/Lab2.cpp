@@ -21,6 +21,9 @@ GLfloat vertices[] =
 GLuint Buffers[NUM_BUFFERS];
 GLuint VAOs[NUM_VAOS];
 
+float xOffset = 0.f;
+float yOffset = 0.f;
+
 void (APIENTRY* DEBUGPROC)(GLenum source, GLenum type, GLuint id, GLenum severity, GLsizei length, const GLchar* message, const void* userParam);
 
 int main()
