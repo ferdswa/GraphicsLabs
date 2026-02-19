@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+C:\Users\Max\Documents\COMP3011\include\file.h(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  (compiling source file 'Lab2.cpp')
+  
+  Lab2.vcxproj -> C:\Users\Max\Documents\COMP3011\Lab2\x64\Debug\Lab2.exe
